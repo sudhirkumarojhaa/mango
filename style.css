@@ -135,13 +135,14 @@ h6 {
 .slide {
   margin: 0 auto;
   margin-top: 5vh;
-  width: 50%;
+  width: 45%;
   height: 400px;
 }
 
 .text {
   bottom: 10px;
-  right: 10px;
+  width: 100%;
+  text-align: center;
   margin: 0 auto;
 }
 
